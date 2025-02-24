@@ -1,0 +1,3 @@
+[submodule "graph-manipulation"]
+	path = graph-manipulation
+	url = https://github.com/JibJibFlutterhousen/graph-manipulation.git
